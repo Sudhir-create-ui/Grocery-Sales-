@@ -1,4 +1,4 @@
-# Grocery-Sales-
+# Grocery-Sales-Analysis
 My First Project 
 # Grocery Sales Analysis Dashboard (Excel + Power BI)
 
