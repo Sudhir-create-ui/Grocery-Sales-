@@ -78,24 +78,6 @@ RANKX(ALL(cleaned[Item]), [Total Revenue], , DESC)
 
 ---
 
-## 8. How to Use This Repository
-- Download the dataset (`grocery_sales_raw.csv`)  
-- Download the Power BI file (`.pbix`)  
-- Open in Power BI Desktop  
-- Explore the visuals and DAX formulas  
-
----
-
-## 9. Dashboard Screenshot
-(Insert PNG of dashboard here)
-
----
-
-## 10. Author
-Your Name  
-Aspiring Data Analyst  
-LinkedIn: (your profile)
-
 ---
 
 ## 11. License
